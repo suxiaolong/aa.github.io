@@ -2,48 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://suxiaolong.github.io/aa.github.io/</link>
+    <link>https://suxiaolong.github.io/aa.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-ch</language>
-    <lastBuildDate>Mon, 13 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://suxiaolong.github.io/aa.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://suxiaolong.github.io/aa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我的随笔7</title>
-      <link>http://suxiaolong.github.io/aa.github.io/post/three/</link>
+      <link>https://suxiaolong.github.io/aa.github.io/post/three/</link>
       <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://suxiaolong.github.io/aa.github.io/post/three/</guid>
+      <guid>https://suxiaolong.github.io/aa.github.io/post/three/</guid>
       <description>ddddd
   1.我顶顶顶顶顶顶顶顶
   2.大大大大大大哇哇哇哇
+  3.dddd
+  444
+  gggggg
    顶顶顶顶顶 顶顶顶顶顶   </description>
     </item>
     
     <item>
       <title>我的文章2</title>
-      <link>http://suxiaolong.github.io/aa.github.io/post/two/</link>
+      <link>https://suxiaolong.github.io/aa.github.io/post/two/</link>
       <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://suxiaolong.github.io/aa.github.io/post/two/</guid>
+      <guid>https://suxiaolong.github.io/aa.github.io/post/two/</guid>
       <description>dddd ddddddwwwww大大苏打实打实 88888 </description>
     </item>
     
     <item>
       <title>留言</title>
-      <link>http://suxiaolong.github.io/aa.github.io/post/first/</link>
+      <link>https://suxiaolong.github.io/aa.github.io/post/first/</link>
       <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://suxiaolong.github.io/aa.github.io/post/first/</guid>
+      <guid>https://suxiaolong.github.io/aa.github.io/post/first/</guid>
       <description>本站所有文章已经开启 utterances 评论模块，如果你有任何建议，欢迎留言。相关文章的更多详细信息，请移步本博客的 &amp;ldquo;语雀专栏&amp;rdquo; 进行查看，感谢你的一路支持！
  </description>
     </item>
     
     <item>
       <title>简介</title>
-      <link>http://suxiaolong.github.io/aa.github.io/about/</link>
+      <link>https://suxiaolong.github.io/aa.github.io/about/</link>
       <pubDate>Thu, 05 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://suxiaolong.github.io/aa.github.io/about/</guid>
+      <guid>https://suxiaolong.github.io/aa.github.io/about/</guid>
       <description>99999关于作者 88888 沈维燕(Steven Shen)，一个 90 后的广东人，熟悉粤语、国语，略懂英语。本人 2013 年毕业于南方医科大学（原中国人民解放军第一军医大学）基础医学学院生物信息学专业。现工作生活于广州，主要从事 Bio IT 的一些相关工作。平时喜欢逛逛技术论坛，玩玩羽毛球，看看电影，瞎折腾一下技术，不务正业之余喜欢记录一些生活工作学习中的一些想法。喜欢分享，喜欢把事情简单化，程序化。
 专业技能  熟悉 Python、R、Perl、LaTeX、Html .etc. 编程。 熟悉 Galaxy 生物信息学平台相关部署与定制化工具开发。 熟悉常用生物信息学数据分析与可视化，了解 web 相关应用开发。 擅长 Linux，尤其是 CentOS，熟悉 LSF、SGE 集群相关运维。  </description>
     </item>
